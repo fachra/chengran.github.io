@@ -8,8 +8,6 @@ paperurl: ''
 citation: '<b>Chengran Fang</b>, Demian Wassermann, and Jing-Rebecca Li. <i>SIAM Journal on Applied Mathematics</i> (2022).'
 ---
 
-\[This paper has been accepted recently. The published version is not available yet.\]
-
-This paper provides a new representation of the diffusion MRI signal by solving the Bloch-Torrey PDE using potential theory.
+This paper provides a new representation of the diffusion MRI signal by solving the Bloch-Torrey PDE using potential theory. (The published version is not available yet.)
 
 \[[code](https://github.com/fachra/FourierPotential)\]

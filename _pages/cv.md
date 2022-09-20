@@ -8,14 +8,13 @@ redirect_from:
 ---
 
 {% include base_path %}
-
 [Resume](https://github.com/fachra/fachra.github.io/raw/master/files/CV_english.pdf) in pdf format.
 
 Education
 ---------
 
 * Ph.D. in Computer science and applied mathematics, University of Paris-Saclay, 2023 (expected)
-* M.S. in Signal processing, Ecole Centrale de Lyon, 2019 (double degree)
+* M.S. in Signal processing, École Centrale de Lyon, 2019 (diplôme d'ingénieur)
 * M.S. in Electrical engineering, Beihang University, 2019
 * B.S. in Applied mathematics, Beihang University, 2016
 
