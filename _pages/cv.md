@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Resume](https://github.com/fachra/fachra.github.io/blob/master/files/CV_english.pdf) in pdf format.
+
 ## Education
 
 * Ph.D. in Computer science and applied mathematics, University of Paris-Saclay, 2023 (expected)
@@ -29,12 +31,12 @@ redirect_from:
 
 ## Publications
 
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 ## Talks
 
-  <ul>{% for post in site.talks %}
+  <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>

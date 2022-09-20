@@ -12,13 +12,13 @@ I am a PhD candidate in the [IDEFIX team](https://uma.ensta-paris.fr/idefix/) an
 
 ## Publications
 
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 ## Research interests
 
 - Scientific computing
-- Machine learning
 - Optimization
+- Machine learning
 - Geometric Modeling
