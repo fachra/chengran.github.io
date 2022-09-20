@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About Chengran"
+title                    : "About me"
 title_separator          : "-"
 name                     : &name "Chengran Fang"
 description              : &description "PhD candidate at INRIA-Saclay"
@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "PhD candidate in computer science and applied math"
   location         : "Paris, France"
-  employer         : "INRIA-Saclay"
+  employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=x5CSNNEAAAAJ&hl=fr"
   email            : "chengran.fang@inria.fr"

@@ -9,29 +9,32 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+## Education
 
-* Ph.D in Computer science and applied mathematics, Paris-Saclay University, 2022 (expected)
+* Ph.D. in Computer science and applied mathematics, University of Paris-Saclay, 2023 (expected)
 * M.S. in Signal processing, Ecole Centrale de Lyon, 2019 (double degree)
 * M.S. in Electrical engineering, Beihang University, 2019
 * B.S. in Applied mathematics, Beihang University, 2016
 
-Software
-======
+## Software
 
-* [swc2mesh](https://github.com/fachra/swc2mesh): Robust and automatic neuron meshes generator
-* [FourierPotential](https://github.com/fachra/FourierPotential): Fourier representation of the diffusion MRI signal using layer potentials
-* [SpinDoctor](https://github.com/SpinDoctorMRI/SpinDoctor): Diffusion MRI Simulation Toolbox in Matlab
+* Author of [swc2mesh](https://github.com/fachra/swc2mesh): A robust and automatic neuron mesh generator.
+* Author of [FourierPotential](https://github.com/fachra/FourierPotential): A Fourier representation of the diffusion MRI signal using layer potentials.
+* Contributor of [SpinDoctor](https://github.com/SpinDoctorMRI/SpinDoctor): A diffusion MRI simulation toolbox in Matlab.
 
-Publications
-======
+## Skills
+
+* Programming language: Python, Matlab
+* Language: Chinese, English, French
+
+## Publications
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Talks
-======
+## Talks
+
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>

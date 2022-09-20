@@ -1,0 +1,24 @@
+{
+    "grammarly.selectors": [
+        {
+            "language": "markdown",
+            "scheme": "file",
+            "pattern": "_pages/about.md"
+        },
+        {
+            "language": "markdown",
+            "scheme": "file",
+            "pattern": "_pages/cv.md"
+        },
+        {
+            "language": "markdown",
+            "scheme": "file",
+            "pattern": "_publications/2022-09-17-fourierpotential-number-3.md"
+        },
+        {
+            "language": "markdown",
+            "scheme": "file",
+            "pattern": "_publications/2020-11-15-neuronmodule-number-2.md"
+        }
+    ]
+}
