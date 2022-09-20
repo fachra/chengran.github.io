@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "About Chengran"
 title_separator          : "-"
 name                     : &name "Chengran Fang"
-description              : &description "personal description"
-url                      : https://chengran.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "PhD candidate at INRIA-Saclay"
+url                      : https://fachra.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "fachra/chengran.github.io"
+repository               : "fachra.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -85,10 +85,10 @@ author:
   bio              : "PhD candidate in computer science and applied math"
   location         : "Paris, France"
   employer         : "INRIA-Saclay"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=x5CSNNEAAAAJ&hl=fr"
   email            : "chengran.fang@inria.fr"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
