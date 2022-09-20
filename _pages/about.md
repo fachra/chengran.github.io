@@ -10,13 +10,15 @@ redirect_from:
 
 I am a PhD candidate in the [IDEFIX team](https://uma.ensta-paris.fr/idefix/) and [Parietal team](https://team.inria.fr/parietal/) at Inria, University of Paris-Saclay, under the supervision of [Prof. Jing-Rebecca Li](http://www.cmap.polytechnique.fr/~jingrebeccali/) and [Prof. Demian Wassermann](https://pages.saclay.inria.fr/demian.wassermann/). My research develops algorithms and software for realistic neuron modeling, diffusion MRI simulation, and brain microstructure estimation.
 
-## Publications
-
+Publications
+------------
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-## Research interests
+
+Research interests
+------------------
 
 - Scientific computing
 - Optimization

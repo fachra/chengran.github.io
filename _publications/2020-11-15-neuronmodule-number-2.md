@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2020-11-15-neuronmodule-number-2
 date: 2020-11-15
 venue: 'NeuroImage'
-paperurl: 'https://www.sciencedirect.com/science/article/pii/S1053811920306844/'
+paperurl: ''
 citation: '<b>Chengran Fang</b>, Van-Dang Nguyen, Demian Wassermann, and Jing-Rebecca Li. &quot;Diffusion MRI simulation of realistic neurons with SpinDoctor and the Neuron Module.&quot; <i>NeuroImage<i> 222 (2020): 117198.'
 ---
 

@@ -9,34 +9,39 @@ redirect_from:
 
 {% include base_path %}
 
-[Resume](https://github.com/fachra/fachra.github.io/blob/master/files/CV_english.pdf) in pdf format.
+[Resume](https://github.com/fachra/fachra.github.io/raw/master/files/CV_english.pdf) in pdf format.
 
-## Education
+Education
+---------
 
 * Ph.D. in Computer science and applied mathematics, University of Paris-Saclay, 2023 (expected)
 * M.S. in Signal processing, Ecole Centrale de Lyon, 2019 (double degree)
 * M.S. in Electrical engineering, Beihang University, 2019
 * B.S. in Applied mathematics, Beihang University, 2016
 
-## Software
+Software
+--------
 
 * Author of [swc2mesh](https://github.com/fachra/swc2mesh): A robust and automatic neuron mesh generator.
 * Author of [FourierPotential](https://github.com/fachra/FourierPotential): A Fourier representation of the diffusion MRI signal using layer potentials.
 * Contributor of [SpinDoctor](https://github.com/SpinDoctorMRI/SpinDoctor): A diffusion MRI simulation toolbox in Matlab.
 
-## Skills
+Skills
+------
 
 * Programming language: Python, Matlab
 * Language: Chinese, English, French
 
-## Publications
-
+Publications
+------------
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-## Talks
 
+Talks
+-----
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
+
