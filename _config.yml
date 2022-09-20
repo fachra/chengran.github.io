@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About me"
+title                    : "Fang Chengran"
 title_separator          : "-"
 name                     : &name "Chengran Fang"
 description              : &description "PhD candidate at INRIA-Saclay"
