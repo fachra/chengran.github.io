@@ -10,4 +10,4 @@ citation: '<b>Chengran Fang</b>, Van-Dang Nguyen, Demian Wassermann, and Jing-Re
 
 This paper provides to the public the constructed finite element meshes for 65 neurons whose morphological descriptions were found in the neuron repository NeuroMorpho.Org. A statistical study on the set of 65 neurons shows that some candidate biomarkers can potentially indicate the soma size.
 
-\[[paper](https://www.sciencedirect.com/science/article/pii/S1053811920306844)\] \[[code](https://github.com/SpinDoctorMRI/SpinDoctor/tree/Paper_NeuroImage_2020)\]
+\[[paper](https://github.com/fachra/fachra.github.io/raw/master/files/DMRI_simulation_with_SD_and_NM.pdf)\] \[[code](https://github.com/SpinDoctorMRI/SpinDoctor/tree/Paper_NeuroImage_2020)\] \[[link](https://www.sciencedirect.com/science/article/pii/S1053811920306844)\]

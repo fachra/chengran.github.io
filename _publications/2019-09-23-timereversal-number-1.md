@@ -10,4 +10,4 @@ citation: 'Mingshan Zhang, <b>Chengran Fang</b>, Pavlos Doanis, Julien Huillery,
 
 This letter provides experimental evidence that, in a complex environment, a time-reversal processing of electromagnetic waves can increase the energy efficiency of the reader to tag communication.
 
-\[[paper](https://ieeexplore.ieee.org/abstract/document/8846742/)\]
+\[[link](https://ieeexplore.ieee.org/abstract/document/8846742/)\]

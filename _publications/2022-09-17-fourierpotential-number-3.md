@@ -10,4 +10,4 @@ citation: '<b>Chengran Fang</b>, Demian Wassermann, and Jing-Rebecca Li. <i>SIAM
 
 This paper provides a new representation of the diffusion MRI signal by solving the Bloch-Torrey PDE using potential theory. (The published version is not available yet.)
 
-\[[code](https://github.com/fachra/FourierPotential)\]
+\[[paper](https://github.com/fachra/fachra.github.io/raw/master/files/Fourier_potential_method.pdf)\] \[[code](https://github.com/fachra/FourierPotential)\]
